@@ -1,0 +1,12 @@
+[
+    {
+        "name": "hotkey1",
+        "description": "does some stuff",
+        "keys": [ "cmd", "shift", "a" ]
+    },
+    {
+        "name": "hotkey2",
+        "description": "does some other stuff",
+        "keys": [ "cmd", "shift", "b" ]
+    }
+]
